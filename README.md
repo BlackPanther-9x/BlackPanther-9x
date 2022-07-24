@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BlackPanther-9x
+- 👋 Hi, I’m @Do (Dean) Dao Xuan
 - 👀 I’m interested in Machine Learning, Computer Vision, NLP, Recommendation
 - 🌱 I’m currently learning Deep Learning for Computer Vision, NLP
 - 💞️ I’m working at VCCorp
